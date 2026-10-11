@@ -15,6 +15,7 @@ A ~2.5 month learning journey to explore three fields:
 | ⚛️ **Quantum Physics**   | Quantum Technology & Simulation |
 | 🖥️ **Computer Cluster** | Linux, HPC & SLURM              |
 | 🌐 **Web Development**   | Frontend, Backend & API         |
+| 🛠️ **Side Course**       | Git, GitHub, LaTeX & Markdown   |
 
 ## How It Works
 
@@ -60,6 +61,10 @@ Self Study ──► Meeting ──► Self Study ──► Meeting
 📁 Web Dev/
 ├── 📚 Resource/
 └── 📝 Assignment/
+
+📁 Side Course/
+├── 📚 Resource/
+└── 📝 Assignment/
 ```
 
 Choose your path:
@@ -67,6 +72,7 @@ Choose your path:
 * [⚛️ Quantum Physics](./Quantum%20Physics/)
 * [🖥️ Computer Cluster](./Computer%20Cluster/)
 * [🌐 Web Development](./Web%20Dev/)
+* [🛠️ Side Course](./Side%20Course/)
 
 ---
 

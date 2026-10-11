@@ -1,0 +1,4 @@
+# Pastikan script dan data latihan tetap LF agar dapat dijalankan di Linux/WSL
+*.sh   text eol=lf
+*.log  text eol=lf
+*.csv  text eol=lf
