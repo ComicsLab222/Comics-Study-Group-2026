@@ -11,14 +11,17 @@ Latihan dan tugas implementasi untuk menguji pemahaman setelah mempelajari mater
 
 ## Cara Pengumpulan
 
-1. Buat satu folder per assignment, contoh: `assignment-01/`, `assignment-02/`.
-2. Ikuti struktur file pada bagian **Deliverables** di setiap assignment.
-3. Gunakan Markdown (`answers.md` / `REPORT.md`) untuk jawaban tertulis; output terminal ditulis di dalam code block.
-4. Untuk tugas coding, pastikan halaman dapat dibuka langsung dengan Live Server tanpa error di Console.
-5. Kumpulkan sesuai instruksi mentor sebelum deadline.
+1. Upload seluruh deliverables ke repository GitHub masing-masing dengan format penamaan:
+   - **Nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026` ; CSG = *Comics Study Group*).
+   - **README.md:** Wajib menyertakan file `README.md` pada root repositori yang berisi deskripsi repository (format dibebaskan).
+2. Buat satu folder per assignment di dalam repository, contoh: `assignment-01/`, `assignment-02/`.
+3. Ikuti struktur file pada bagian **Deliverables** di setiap assignment.
+4. Gunakan Markdown (`answers.md` / `REPORT.md`) untuk jawaban tertulis; output terminal ditulis di dalam code block.
+5. Untuk tugas coding, pastikan halaman dapat dibuka langsung dengan Live Server tanpa error di Console.
+6. Kumpulkan link repository/folder tugas sesuai instruksi mentor sebelum deadline.
 
 > [!NOTE]
-> Setelah topik **Git & GitHub** (29 Okt–4 Nov), pengumpulan dapat dilakukan melalui repository GitHub masing-masing peserta, dan halaman profile dari Assignment 02 dapat di-deploy ke **GitHub Pages**.
+> Setelah mempelajari materi **Git & GitHub**, halaman profile dari Assignment 02 juga dapat di-deploy ke **GitHub Pages** langsung dari repository Anda.
 
 ## Aturan
 

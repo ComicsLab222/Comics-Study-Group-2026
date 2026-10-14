@@ -7,6 +7,11 @@ Assignment ini memastikan Anda terampil menggunakan sintaks Markdown untuk forma
 
 ## Deliverables
 
+Upload deliverables ke repository GitHub masing-masing dengan ketentuan:
+- **Format nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026`; CSG = *Comics Study Group*).
+- **README.md:** Wajib menyertakan file `README.md` pada root repository yang berisi deskripsi repository (format dibebaskan).
+- **Struktur folder:** Masukkan deliverables ke dalam folder:
+
 ```text
 assignment-02/
 ├── cheat-sheet.md      ← Task 1 (Dokumen komprehensif sintaks Markdown)

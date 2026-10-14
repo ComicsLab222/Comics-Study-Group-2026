@@ -11,11 +11,14 @@ Tugas dan latihan untuk menguji pemahaman setelah mempelajari materi di [`Resour
 
 ## Cara Pengumpulan
 
-1. Buat satu folder per assignment, contoh: `assignment-01/`, `assignment-02/`.
-2. Ikuti struktur file pada bagian **Deliverables** di setiap assignment.
-3. Jawaban teori dapat ditulis di Markdown (gunakan LaTeX `$...$`) **atau** tulisan tangan yang di-scan menjadi PDF.
-4. Notebook (`.ipynb`) harus **sudah dijalankan** sehingga seluruh output dan grafik terlihat. Jika memakai Colab, sertakan juga link share-nya.
-5. Kumpulkan sesuai instruksi mentor sebelum deadline.
+1. Upload seluruh deliverables ke repository GitHub masing-masing dengan format penamaan:
+   - **Nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026` ; CSG = *Comics Study Group*).
+   - **README.md:** Wajib menyertakan file `README.md` pada root repositori yang berisi deskripsi repository (format dibebaskan).
+2. Buat satu folder per assignment di dalam repository, contoh: `assignment-01/`, `assignment-02/`.
+3. Ikuti struktur file pada bagian **Deliverables** di setiap assignment.
+4. Jawaban teori dapat ditulis di Markdown (gunakan LaTeX `$...$`) **atau** tulisan tangan yang di-scan menjadi PDF.
+5. Notebook (`.ipynb`) harus **sudah dijalankan** sehingga seluruh output dan grafik terlihat. Jika memakai Colab, sertakan juga link share-nya.
+6. Kumpulkan link repository/folder tugas sesuai instruksi mentor sebelum deadline.
 
 ## Aturan
 

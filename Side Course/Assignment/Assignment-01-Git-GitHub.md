@@ -7,7 +7,10 @@ Assignment ini memastikan Anda telah memiliki environment Git yang terkonfiguras
 
 ## Deliverables
 
-Kumpulkan file laporan Markdown `answers.md` yang berisi jawaban pertanyaan, tangkapan layar (screenshot), dan link repositori GitHub publik yang telah Anda buat.
+Upload deliverables ke repository GitHub masing-masing dengan ketentuan:
+- **Format nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026`; CSG = *Comics Study Group*).
+- **README.md:** Wajib menyertakan file `README.md` pada root repository yang berisi deskripsi repository (format dibebaskan).
+- **Struktur folder:** Masukkan deliverables ke dalam folder `assignment-01/`:
 
 ```text
 assignment-01/

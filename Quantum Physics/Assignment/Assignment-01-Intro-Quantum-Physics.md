@@ -9,10 +9,16 @@ Assignment ini menguji pemahaman konseptual Anda terhadap fondasi fisika kuantum
 
 ## Deliverables
 
+Upload deliverables ke repository GitHub masing-masing dengan ketentuan:
+- **Format nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026`; CSG = *Comics Study Group*).
+- **README.md:** Wajib menyertakan file `README.md` pada root repository yang berisi deskripsi repository (format dibebaskan).
+- **Struktur folder:** Masukkan deliverables ke dalam folder:
+
 ```text
 assignment-01/
-├── answers.md                  ← Task 1, 2, 5 (boleh juga PDF hasil tulisan tangan yang di-scan)
-└── assignment01.ipynb          ← Task 3 & 4 (notebook yang sudah dijalankan, output terlihat)
+├── answers.md                  ← Task 1 & 2 (boleh juga PDF hasil tulisan tangan yang di-scan)
+├── assignment01.ipynb          ← Task 3 & 4 (notebook yang sudah dijalankan, output terlihat)
+└── slides.pdf / presentation.* ← Task 5 (slide deck wrap up/resume presentasi penjelasan Task 1–4)
 ```
 
 **Konstanta yang digunakan:**
@@ -77,15 +83,13 @@ $$
 5. Plot bagaimana frekuensi relatif keadaan 2 **konvergen** ke nilai teoritis seiring bertambahnya jumlah pengukuran (sumbu-x log scale).
 6. Jika $c_3$ diubah menjadi $-\tfrac{1}{2}$ (tanpa $i$), apakah probabilitasnya berubah? Apa yang dapat Anda simpulkan tentang **fase** koefisien?
 
-## Task 5 — Mini Essay: Quantum Technology
+## Task 5 — Wrap Up Presentation: Resume & Explanation (Slides)
 
-Pilih **satu** bidang quantum technology (computing, communication, sensing, atau simulation). Tulis esai 300–500 kata yang membahas:
+Buat presentasi singkat (resume / wrap up) dalam format slide deck (PDF, PPTX, Google Slides link, dsb.) yang merangkum serta menjelaskan kembali intisari pemahaman Anda dari pengerjaan **Task 1 sampai Task 4**. 
 
-1. Konsep kuantum apa yang dimanfaatkan (superposition, quantization, uncertainty, dll.)?
-2. Satu contoh nyata (produk, eksperimen, atau perusahaan/lab) beserta sumber referensinya.
-3. Tantangan utama yang masih dihadapi bidang tersebut.
+Struktur dan jumlah slide **dibebaskan** (tidak dibatasi secara kaku per-slide).
 
-Cantumkan minimal **2 referensi** yang kredibel.
+> 💡 *Tips:* Utamakan penyampaian visual yang komunikatif, sertakan grafik/tangkapan visual dari notebook Anda, dan sampaikan kesimpulan secara lugas.
 
 ---
 
@@ -101,5 +105,5 @@ Gunakan simulasi [PhET Quantum Wave Interference](https://phet.colorado.edu/en/s
 | Task 2 — Perhitungan (langkah, satuan, hasil) | 25% |
 | Task 3 — Blackbody notebook | 20% |
 | Task 4 — Superposition simulation | 20% |
-| Task 5 — Mini essay | 15% |
+| Task 5 — Wrap up presentation (slides) | 15% |
 | Bonus — PhET exploration | +10% |

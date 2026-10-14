@@ -9,6 +9,11 @@ Assignment ini menguji pemahaman Anda tentang cara kerja web — dari URL, DNS, 
 
 ## Deliverables
 
+Upload deliverables ke repository GitHub masing-masing dengan ketentuan:
+- **Format nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026`; CSG = *Comics Study Group*).
+- **README.md:** Wajib menyertakan file `README.md` pada root repository yang berisi deskripsi repository (format dibebaskan).
+- **Struktur folder:** Masukkan deliverables ke dalam folder:
+
 ```text
 assignment-01/
 ├── answers.md          ← jawaban Task 1–4

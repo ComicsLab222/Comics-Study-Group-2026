@@ -17,9 +17,12 @@ Tugas praktis untuk menguji pemahaman setelah mempelajari materi di [`Resource/`
 
 ## Cara Pengumpulan
 
-1. Buat satu folder per assignment, contoh: `assignment-01/`, `assignment-02/`.
-2. Ikuti struktur file pada bagian **Deliverables** di setiap assignment.
-3. Gunakan format Markdown (`answers.md`) untuk jawaban. Tulis command di dalam code block:
+1. Upload seluruh deliverables ke repository GitHub masing-masing dengan format penamaan:
+   - **Nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026` ; CSG = *Comics Study Group*).
+   - **README.md:** Wajib menyertakan file `README.md` pada root repositori yang berisi deskripsi repository (format dibebaskan).
+2. Buat satu folder per assignment di dalam repository, contoh: `assignment-01/`, `assignment-02/`.
+3. Ikuti struktur file pada bagian **Deliverables** di setiap assignment.
+4. Gunakan format Markdown (`answers.md`) untuk jawaban. Tulis command di dalam code block:
 
    ````markdown
    ```bash
@@ -27,7 +30,7 @@ Tugas praktis untuk menguji pemahaman setelah mempelajari materi di [`Resource/`
    ```
    ````
 
-4. Kumpulkan sesuai instruksi mentor sebelum deadline.
+5. Kumpulkan link repository/folder tugas sesuai instruksi mentor sebelum deadline.
 
 ## Aturan
 

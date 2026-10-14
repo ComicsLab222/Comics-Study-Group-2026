@@ -9,7 +9,10 @@ Assignment ini menguji kemampuan Anda menggunakan Linux melalui command line: na
 
 ## Deliverables
 
-Kumpulkan dalam satu folder `assignment-01/` (lihat [aturan pengumpulan](README.md#cara-pengumpulan)):
+Upload deliverables ke repository GitHub masing-masing dengan ketentuan:
+- **Format nama repository:** `<nama>-CSG-2026` (contoh: `budi-CSG-2026`; CSG = *Comics Study Group*).
+- **README.md:** Wajib menyertakan file `README.md` pada root repository yang berisi deskripsi repository (format dibebaskan).
+- **Struktur folder:** Kumpulkan dalam satu folder `assignment-01/` (lihat [aturan pengumpulan](README.md#cara-pengumpulan)):
 
 ```text
 assignment-01/
