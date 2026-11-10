@@ -77,6 +77,16 @@ Choose your path:
 ---
 ### Assistant
 - Umar Zaki Gunawan
+- Radif Putra Permana
+- Thory Shafwan Putra Ramadhan
+- Alfandi Yulviano Saputra
+- Arsy Syamil Hananan Taqiyya
+- Siyfa Nurul Hasanah
+- Nuha Khairunnisa Rafti
+- Gheisyanov Syiami Anwar
+- Deannisaa Addysti Wahyudi
+- Bunga Nirmala Ramadhani
+- Roudhotul Jannah
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250">
