@@ -75,6 +75,8 @@ Choose your path:
 * [🛠️ Side Course](./Side%20Course/)
 
 ---
+### Assistant
+- Umar Zaki Gunawan
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250">
