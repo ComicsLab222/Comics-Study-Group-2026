@@ -96,6 +96,9 @@ Choose your path:
 
 - Kayla Priskila Adalia Peranginangin
 
+### Research Student
+- Alisha Shafira Qolby
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250">
 </p>
