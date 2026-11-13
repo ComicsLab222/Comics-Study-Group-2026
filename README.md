@@ -10,12 +10,12 @@ Welcome to **COMICS Study Group 2026**.
 
 A ~2.5 month learning journey to explore three fields:
 
-| Track                    | Focus                           |
-| ------------------------ | ------------------------------- |
-| ⚛️ **Quantum Physics**   | Quantum Technology & Simulation |
+| Track                   | Focus                           |
+| ----------------------- | ------------------------------- |
+| ⚛️ **Quantum Physics**  | Quantum Technology & Simulation |
 | 🖥️ **Computer Cluster** | Linux, HPC & SLURM              |
-| 🌐 **Web Development**   | Frontend, Backend & API         |
-| 🛠️ **Side Course**       | Git, GitHub, LaTeX & Markdown   |
+| 🌐 **Web Development**  | Frontend, Backend & API         |
+| 🛠️ **Side Course**      | Git, GitHub, LaTeX & Markdown   |
 
 ## How It Works
 
@@ -69,13 +69,15 @@ Self Study ──► Meeting ──► Self Study ──► Meeting
 
 Choose your path:
 
-* [⚛️ Quantum Physics](./Quantum%20Physics/)
-* [🖥️ Computer Cluster](./Computer%20Cluster/)
-* [🌐 Web Development](./Web%20Dev/)
-* [🛠️ Side Course](./Side%20Course/)
+- [⚛️ Quantum Physics](./Quantum%20Physics/)
+- [🖥️ Computer Cluster](./Computer%20Cluster/)
+- [🌐 Web Development](./Web%20Dev/)
+- [🛠️ Side Course](./Side%20Course/)
 
 ---
+
 ### Assistant
+
 - Umar Zaki Gunawan
 - Radif Putra Permana
 - Thory Shafwan Putra Ramadhan
@@ -87,6 +89,10 @@ Choose your path:
 - Deannisaa Addysti Wahyudi
 - Bunga Nirmala Ramadhani
 - Roudhotul Jannah
+
+### Student
+
+- Kayla Priskila Adalia Peranginangin
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250">
