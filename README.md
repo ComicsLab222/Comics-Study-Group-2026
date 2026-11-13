@@ -88,6 +88,9 @@ Choose your path:
 - Bunga Nirmala Ramadhani
 - Roudhotul Jannah
 
+###  CAAS
+- USEP ML
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250">
 </p>
