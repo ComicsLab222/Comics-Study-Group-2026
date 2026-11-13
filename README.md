@@ -87,6 +87,8 @@ Choose your path:
 - Deannisaa Addysti Wahyudi
 - Bunga Nirmala Ramadhani
 - Roudhotul Jannah
+### student
+- Aisyah azzahra
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250">
